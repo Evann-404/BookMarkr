@@ -1,11 +1,9 @@
 # BookMarkr
 Track your books, reading progress, and get insights into your reading habits. 
 
-# Book Reading Tracker
-
 ## Project Description
 
-The **Book Reading Tracker** allows users to track their reading progress, record book details, and view statistics on their reading habits. The app is built in C++ using Qt for the GUI and SQLite for local database management. A future update will transition to a server-based system for remote data management and synchronization.
+The **BookMarkr Project** allows users to track their reading progress, record book details, and view statistics on their reading habits. The app is built in C++ using Qt for the GUI and SQLite for local database management. A future update will transition to a server-based system for remote data management and synchronization.
 
 ## Features
 
